@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48942" started-at="2020-01-25T03:30:40Z" finished-at="2020-01-25T03:31:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48942" started-at="2020-01-25T03:30:40Z" finished-at="2020-01-25T03:31:29Z">
+      <class name="com.QAPractise.TheInternetHerokuapp.Herokuapp_HomePage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.QAPractise.TheInternetHerokuapp.Herokuapp_HomePage@4b6995df]" name="setup" is-config="true" duration-ms="35311" started-at="2020-01-24T22:30:40Z" finished-at="2020-01-24T22:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="javaScriptAlertTest()[pri:0, instance:com.QAPractise.TheInternetHerokuapp.Herokuapp_HomePage@4b6995df]" name="javaScriptAlertTest" duration-ms="12508" started-at="2020-01-24T22:31:16Z" finished-at="2020-01-24T22:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaScriptAlertTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.QAPractise.TheInternetHerokuapp.Herokuapp_HomePage@4b6995df]" name="teardown" is-config="true" duration-ms="1108" started-at="2020-01-24T22:31:28Z" finished-at="2020-01-24T22:31:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.QAPractise.TheInternetHerokuapp.Herokuapp_HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
